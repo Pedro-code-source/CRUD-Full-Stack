@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 🍽️ Cardápio Digital
 Esse mini projeto foi criado com o intuito de consolidar o conhecimento adquirido nos meus estudos de desenvolvimento Web, aplicando conhecimentos de front end, back end e banco de dados.
@@ -36,7 +35,3 @@ Durante o desenvolvimento, aprendi a:
 - Consumir dados no **React** de forma dinâmica.  
 - Implementar **migrations** para versionamento do banco de dados.  
 
-=======
-# CRUD-Full-Stack
-Mini projeto criado com o intuito de consolidar o conhecimento adquirido nos meus estudos de desenvolvimento Web, aplicando conhecimentos de front end, back end e banco de dados.
->>>>>>> 81bc36c8efbfca57ee321f3c194f1900a6f8f3c8
